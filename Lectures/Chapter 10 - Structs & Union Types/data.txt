@@ -1,0 +1,4 @@
+Homer,Simpson,50
+Marge,Simpson,46
+Bart,Simpson,12
+Lisa,Simpson,10

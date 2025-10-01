@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+double avg_eq(double a, double b, double c, double d, double result);
+
+int main() {
+
+    double a, b, c, d;
+    double result;
+
+    printf("Pick 1 numbers: ");
+    scanf("%lf %lf %lf %lf", &a, &b, &c, &d);
+
+    avg_eq(a,b,c,d,result);
+
+    return 0;
+}
+
+double avg_eq(double a, double b, double c, double d, double result) {
+    if( ((a+b+c)/3) > d) {
+        printf("1");
+    }
+    else {
+        printf("0");
+    }
+    return 0;
+}

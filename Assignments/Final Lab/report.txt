@@ -1,0 +1,23 @@
+Product Sales Report
+Code      Quantity       Total
+2JST         0            0.00
+2QRY         0            0.00
+A46C         14         805.00
+A46V         38        2185.00
+ADC4         0            0.00
+ADV4         3          169.50
+CRFC         1           50.00
+CS15         9          508.50
+DB1R         3          126.00
+DB2R         5          225.00
+JAVP         2          113.00
+JSP2         1           57.50
+MCBL         0            0.00
+MCCP         0            0.00
+MMag         0            0.00
+SQ12         1           57.50
+VB15         10         565.00
+
+Total items sold:                   87
+Total revenue from sales:      4862.00
+
